@@ -1,0 +1,37 @@
+*{ margin: 0; padding: 0; }
+
+*li,ul{
+    list-style: none;
+
+}
+*a{
+    text-decoration: none;
+    background-color: rgba(250, 143, 218, 0.79);
+}
+.d-blcok{
+    display: block;
+}
+.d-inline-block{
+    display: inline-block;
+}
+.d-flex{
+    display: flex;
+}
+.justify-content-between{
+    justify-content: space-between;
+}
+.align-item-center{
+    align-items: center;
+}
+.posittion-absolute{
+    position: absolute;
+}
+.posittion-absolute{
+    position: relative;
+}
+.over-flow-hidden{
+    overflow: hidden;
+}
+.mx-auto{
+    margin:0 auto;
+}
